@@ -14,7 +14,7 @@ Passionné de code, je suis ouvert et disponible pour contribuer à des projets 
 
 Vous pouvez me retrouvez sur:
 
-<a href="linkedin.com/in/clément-raoul-037b94222" target="_blank">Linkedin</a>
+<a href="https://linkedin.com/in/clément-raoul-037b94222" target="_blank">Linkedin</a>
 
 <!--
 **clementraoulastek/clementraoulastek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
