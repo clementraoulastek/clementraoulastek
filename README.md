@@ -12,7 +12,7 @@ Mes compétences en bref:
 
 Passionné de code, je suis ouvert et disponible pour contribuer à des projets Python open source. N'hésitez pas à me contacter pour discuter de vos idées et projets !
 
-Vous pouvez me retrouvez sur:
+Vous pouvez me retrouver sur:
 
 <a href="https://linkedin.com/in/clément-raoul-037b94222" target="_blank">Linkedin</a>
 
