@@ -3,12 +3,14 @@
 Je me présente, RAOUL Clément
 
 Ingénieur logiciel et testeur IVL **Python** 🐍
+Ingénieur R&D VoIP
 
 Mes compétences en bref:
 - Développement d'IHM avec Pyside (bancs de productions, IHM métier) ou tous autre logiciel desktop.
 - Développement de services cli conteneurisés sous docker, docker-compose.
 - Développement backend avec FastAPI et Flask.
 - Ecriture de plan de tests et tests fonctionnels avec Pytest pour de la vérification logiciel (IVQ, IVL).
+- Amélioration continue d'une plaque IMS VoIP
 
 Passionné de code, je suis ouvert et disponible pour contribuer à des projets Python open source. N'hésitez pas à me contacter pour discuter de vos idées et projets !
 
